@@ -1,6 +1,6 @@
 Netflix Data Analysis
 
-Softwares used - Tableau
+Tools used - Tableau
 
 Designed and implemented a dynamic Netflix Dashboard using Tableau, showcasing my proficiency in data cleaning, visualization and analytics.
 Leveraging Tableau's features, I crafted an interactive dashboard that enables users to explore trends, patterns, and viewer media consumption, offering actionable insights for strategic decision-making.
